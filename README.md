@@ -2,7 +2,7 @@
 
 Pasé 10 años tomando decisiones de negocio. Ahora también las construyo con datos.
 
-Soy Administradora de Empresas con maestría en Ciencia de Datos en curso. Mi recorrido como gerente me enseñó algo que pocos data scientists tienen desde el principio: entender qué pregunta vale la pena responder antes de escribir una sola línea de código.
+Soy Administradora de Empresas, especialista en SIG, con maestría en Ciencia de Datos en curso. Mi recorrido como gerente me enseñó algo que pocos data scientists tienen desde el principio: entender qué pregunta vale la pena responder antes de escribir una sola línea de código.
 
 Trabajo en la intersección entre estrategia de negocio y análisis técnico — traduzco datos en decisiones que tienen sentido dentro de una organización real.
 
@@ -11,8 +11,7 @@ Trabajo en la intersección entre estrategia de negocio y análisis técnico —
 ## Lo que hago
 
 - **Machine Learning aplicado** — modelos que resuelven problemas concretos, no demos de laboratorio
-- **Análisis de riesgo y forecasting** — con contexto financiero y operativo
-- **Agentes inteligentes** — automatización de procesos que antes requerían criterio humano
+- **Análisis** — con contexto de negocios y operativo
 - **Comunicación de resultados** — porque un modelo que nadie entiende no sirve de nada
 
 ---
