@@ -56,8 +56,7 @@ Modelo de pronóstico de ventas con series de tiempo. Directo a uno de los probl
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=layapemar&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=2F80ED&icon_color=2F80ED" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layapemar&layout=compact&hide_border=true&theme=default&title_color=2F80ED&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=layapemar&locale=es&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" />
 
 </div>
 
