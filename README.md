@@ -41,13 +41,13 @@ Trabajo en la intersección entre estrategia de negocio y análisis técnico —
 
 ## Proyectos
 
-### 🏥 [Clasificación de patologías de columna](https://github.com/layapemar/spine-pathology-classification)
+### [Clasificación de patologías de columna](https://github.com/layapemar/spine-pathology-classification)
 Modelo de clasificación para detectar patologías espinales a partir de datos clínicos.
 
-### 📊 [Agente de riesgo para PyMEs](https://github.com/layapemar/agentic-risk-pymes)
+### [Agente de riesgo para PyMEs](https://github.com/layapemar/agentic-risk-pymes)
 Sistema agentico que evalúa riesgo financiero en pequeñas y medianas empresas. 
 
-### 📈 [Forecasting de ventas](https://github.com/layapemar/ForecastingVentas)
+###  [Forecasting de ventas](https://github.com/layapemar/ForecastingVentas)
 Modelo de pronóstico de ventas con series de tiempo.
 
 ---
