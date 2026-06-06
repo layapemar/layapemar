@@ -10,7 +10,7 @@ Pasé 10 años tomando decisiones de negocio. Ahora también las construyo con d
 
 Soy Administradora de Empresas, especialista en SIG, con maestría en Ciencia de Datos en curso. Mi recorrido como gerente me enseñó algo que pocos data scientists tienen desde el principio: entender qué pregunta vale la pena responder antes de escribir una sola línea de código.
 
-Trabajo en la intersección entre estrategia de negocio y análisis técnico — traduzco datos en decisiones que tienen sentido dentro de una organización real.
+Trabajo en la intersección entre estrategia de negocio y análisis técnico, traduzco datos en decisiones que tienen sentido dentro de una organización real.
 
 ---
 
@@ -54,9 +54,9 @@ Modelo de pronóstico de ventas con series de tiempo.
 
 ## Actualmente
 
-- 🧠 Profundizando en modelos aplicado a negocios
-- 📚 Cursando maestría en Ciencia de Datos
-- 🔍 Explorando el uso de agentes de IA para automatizar decisiones operativas en PyMEs
+- Profundizando en modelos aplicado a negocios
+- Cursando maestría en Ciencia de Datos
+- Explorando el uso de agentes de IA para automatizar decisiones operativas en PyMEs
 
 ---
 
