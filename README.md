@@ -16,9 +16,9 @@ Trabajo en la intersección entre estrategia de negocio y análisis técnico —
 
 ## Lo que hago
 
-- **Machine Learning aplicado** — modelos que resuelven problemas concretos
-- **Análisis** — con contexto de negocios y operativo
-- **Comunicación de resultados** — porque un modelo que nadie entiende no sirve de nada
+- **Machine Learning aplicado**  modelos que resuelven problemas concretos
+- **Análisis** con contexto de negocios y operativo
+- **Comunicación de resultados** porque un modelo que nadie entiende no sirve de nada
 
 ---
 
@@ -42,22 +42,21 @@ Trabajo en la intersección entre estrategia de negocio y análisis técnico —
 ## Proyectos
 
 ### 🏥 [Clasificación de patologías de columna](https://github.com/layapemar/spine-pathology-classification)
-Modelo de clasificación para detectar patologías espinales a partir de datos clínicos. Un ejercicio donde la precisión del modelo tiene consecuencias reales.
+Modelo de clasificación para detectar patologías espinales a partir de datos clínicos.
 
 ### 📊 [Agente de riesgo para PyMEs](https://github.com/layapemar/agentic-risk-pymes)
-Sistema agentico que evalúa riesgo financiero en pequeñas y medianas empresas. Construido desde la perspectiva de quien ha gestionado ese tipo de organizaciones.
+Sistema agentico que evalúa riesgo financiero en pequeñas y medianas empresas. 
 
 ### 📈 [Forecasting de ventas](https://github.com/layapemar/ForecastingVentas)
-Modelo de pronóstico de ventas con series de tiempo. Directo a uno de los problemas más comunes — y más mal resueltos — en las empresas.
+Modelo de pronóstico de ventas con series de tiempo.
 
 ---
 
 ## Actualmente
 
-- 🧠 Profundizando en modelos de series de tiempo y NLP aplicado a negocios
+- 🧠 Profundizando en modelos aplicado a negocios
 - 📚 Cursando maestría en Ciencia de Datos
 - 🔍 Explorando el uso de agentes de IA para automatizar decisiones operativas en PyMEs
-- 🤝 Abierta a proyectos donde los datos resuelvan problemas reales de negocio
 
 ---
 
@@ -72,6 +71,6 @@ Modelo de pronóstico de ventas con series de tiempo. Directo a uno de los probl
 
 <div align="center">
 
-📬 [LinkedIn](https://www.linkedin.com/in/laura-perez-martinez-49468357/) · [laura.y.perez.martinez@gmail.com](mailto:laura.y.perez.martinez@gmail.com)
+📬 [LinkedIn](https://www.linkedin.com/in/laura-perez-49468357/) · [laura.y.perez.martinez@gmail.com](mailto:laura.y.perez.martinez@gmail.com)
 
 </div>
