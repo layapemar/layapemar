@@ -52,13 +52,12 @@ Modelo de pronóstico de ventas con series de tiempo. Directo a uno de los probl
 
 ---
 
-## GitHub Stats
+## Actualmente
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=layapemar&locale=es&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" />
-
-</div>
+- 🧠 Profundizando en modelos de series de tiempo y NLP aplicado a negocios
+- 📚 Cursando maestría en Ciencia de Datos
+- 🔍 Explorando el uso de agentes de IA para automatizar decisiones operativas en PyMEs
+- 🤝 Abierta a proyectos donde los datos resuelvan problemas reales de negocio
 
 ---
 
