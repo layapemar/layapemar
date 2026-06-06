@@ -16,7 +16,7 @@ Trabajo en la intersección entre estrategia de negocio y análisis técnico —
 
 ## Lo que hago
 
-- **Machine Learning aplicado** — modelos que resuelven problemas concretos, no demos de laboratorio
+- **Machine Learning aplicado** — modelos que resuelven problemas concretos
 - **Análisis** — con contexto de negocios y operativo
 - **Comunicación de resultados** — porque un modelo que nadie entiende no sirve de nada
 
