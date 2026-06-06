@@ -14,7 +14,7 @@ Ahora me apasiona la intersección entre estrategia de negocio y análisis técn
 
 ---
 
-## Lo que hago
+## Lo que me apasiona
 
 - **Machine Learning aplicado**  modelos que resuelven problemas concretos
 - **Análisis** con contexto de negocios y operativo
