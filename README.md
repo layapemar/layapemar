@@ -39,33 +39,13 @@ Ahora me apasiona la intersección entre estrategia de negocio y análisis técn
 
 ---
 
-## Proyectos
-
-### [Clasificación de patologías de columna](https://github.com/layapemar/spine-pathology-classification)
-Modelo de clasificación para detectar patologías espinales a partir de datos clínicos.
-
-### [Agente de riesgo para PyMEs](https://github.com/layapemar/agentic-risk-pymes)
-Sistema agentico que evalúa riesgo financiero en pequeñas y medianas empresas. 
-
-###  [Forecasting de ventas](https://github.com/layapemar/ForecastingVentas)
-Modelo de pronóstico de ventas con series de tiempo.
-
----
-
 ## Actualmente
 
 - Profundizando en modelos aplicado a negocios
 - Cursando maestría en Ciencia de Datos
 - Explorando el uso de agentes de IA para automatizar decisiones operativas en PyMEs
 
----
 
-## Un poco más
-
-- 📍 Colombia
-- 🎓 Maestría en Ciencia de Datos (en curso)
-- 10 años en gestión empresarial y gerencia
-- Abierta a colaborar en proyectos donde los datos tienen impacto de negocio real
 
 ---
 
